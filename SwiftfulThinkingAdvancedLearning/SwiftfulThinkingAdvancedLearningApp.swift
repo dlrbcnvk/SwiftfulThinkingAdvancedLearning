@@ -26,6 +26,7 @@ struct SwiftfulThinkingAdvancedLearningApp: App {
             
 //            CloudKitUserBootcamp()
             CloudKitCrudBootcamp()
+//            CloudKitPushNotificationBootcamp()
         }
     }
 }
