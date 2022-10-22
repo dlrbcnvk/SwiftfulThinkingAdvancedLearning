@@ -39,6 +39,7 @@
 		5482490D28FE301400BD2730 /* UITestingBootcampView_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5482490C28FE301400BD2730 /* UITestingBootcampView_UITests.swift */; };
 		549AC49C28F781B500C90281 /* GenericsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 549AC49B28F781B500C90281 /* GenericsBootcamp.swift */; };
 		549AC49E28F78D8C00C90281 /* VIewBuilderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 549AC49D28F78D8C00C90281 /* VIewBuilderBootcamp.swift */; };
+		54AA98192902296000FB8864 /* FuturesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54AA98182902296000FB8864 /* FuturesBootcamp.swift */; };
 		54ADE6ED28F58467003253E6 /* SwiftfulThinkingAdvancedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54ADE6EC28F58467003253E6 /* SwiftfulThinkingAdvancedLearningApp.swift */; };
 		54ADE6F128F58468003253E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54ADE6F028F58468003253E6 /* Assets.xcassets */; };
 		54ADE6F428F58468003253E6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54ADE6F328F58468003253E6 /* Preview Assets.xcassets */; };
@@ -105,6 +106,7 @@
 		5482490C28FE301400BD2730 /* UITestingBootcampView_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITestingBootcampView_UITests.swift; sourceTree = "<group>"; };
 		549AC49B28F781B500C90281 /* GenericsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericsBootcamp.swift; sourceTree = "<group>"; };
 		549AC49D28F78D8C00C90281 /* VIewBuilderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VIewBuilderBootcamp.swift; sourceTree = "<group>"; };
+		54AA98182902296000FB8864 /* FuturesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuturesBootcamp.swift; sourceTree = "<group>"; };
 		54ADE6E928F58467003253E6 /* SwiftfulThinkingAdvancedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingAdvancedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		54ADE6EC28F58467003253E6 /* SwiftfulThinkingAdvancedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingAdvancedLearningApp.swift; sourceTree = "<group>"; };
 		54ADE6F028F58468003253E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -245,6 +247,7 @@
 				54C0F4CF28FD05C000338610 /* UnitTestingBootcamp */,
 				548248FB28FE2AAE00BD2730 /* UITestingBootcampView.swift */,
 				54354F3D28FE514D009E4569 /* AdvancedCombineBootcamp.swift */,
+				54AA98182902296000FB8864 /* FuturesBootcamp.swift */,
 				54354F3F28FE5274009E4569 /* CloudKitBootcamps */,
 				54ADE6F028F58468003253E6 /* Assets.xcassets */,
 				54ADE6F228F58468003253E6 /* Preview Content */,
@@ -455,6 +458,7 @@
 				545486E728FC060200B6F3E7 /* DependencyInjectionBootcamp.swift in Sources */,
 				5435BE5B28F7D20800D72384 /* PreferenceKeyBootcamp.swift in Sources */,
 				545486D928FBCA2600B6F3E7 /* CustomNavBarContainerView.swift in Sources */,
+				54AA98192902296000FB8864 /* FuturesBootcamp.swift in Sources */,
 				545486E528FBFCC900B6F3E7 /* ProtocolsBootcamp.swift in Sources */,
 				5435BE6028F7DB3C00D72384 /* ScrollViewOffsetPreferenceKeyBootcamp.swift in Sources */,
 				5450236828F6D70700414F0E /* CustomCurvesBootcamp.swift in Sources */,
